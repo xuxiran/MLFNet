@@ -1,8 +1,6 @@
-Here is the revised README with a clear hierarchical structure:
-
 ---
 
-# All Codes
+# The codes for MLFNet
 
 This repository contains all the codes implemented for this study.
 
