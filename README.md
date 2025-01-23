@@ -25,4 +25,4 @@ This repository contains all the codes implemented for this study.
 ---
 
 
-Fu, Z., Wang, B., Wu, X., & Chen, J. (2021). Auditory Attention Decoding from EEG using Convolutional Recurrent Neural Network. 29th European Signal Processing Conference (EUSIPCO), 970–974. https://doi.org/10.23919/EUSIPCO54536.2021.9616195
+Fu, Z., Wang, B., Wu, X., & Chen, J. (2021). Auditory Attention Decoding from EEG using Convolutional Recurrent Neural Network. 29th European Signal Processing Conference (EUSIPCO), 970–974.
